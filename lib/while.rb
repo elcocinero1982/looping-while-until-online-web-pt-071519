@@ -4,7 +4,8 @@ def using_while
 	puts  "Wingardium Leviosa" 
 	counter+=1 
 	until counter==10 
-	puts 
+	puts  "Wingardium Leviosa" 
+	counter+=1
   #your code here
 end
 
